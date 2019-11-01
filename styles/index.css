@@ -71,6 +71,7 @@ footer nav a:hover {
 		margin-left: 0 !important;
 		padding: 0 !important;
 		text-align: center !important;
+		align-content: center !important;
 	}
 	
 	section#card {
@@ -78,5 +79,9 @@ footer nav a:hover {
 		padding: 0;
 		padding-bottom: 20px;
 		margin-bottom: 20px;
+	}
+
+	footer nav:last-child {
+		margin-top: 1em;
 	}
 }
